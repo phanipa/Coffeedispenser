@@ -1,0 +1,9 @@
+raspbian stretch is installed
+takes appox 4.5GB
+default python and node is installed
+pip is installed
+npm is NOT there
+wpa_supplicant file is important for wifi
+interface file exists in /etc/network
+rc.local file exists in /etc
+stats.py exist in /home/pi/Ada*/examples
